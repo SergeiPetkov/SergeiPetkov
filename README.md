@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I have a basic understanding of Linux administration, version control systems, and scripting languages
+I have a basic understanding of Linux administration, version control systems, and scripting languages. You can learn more about my skills at the
+<h1 align="center"> <a href="https://cv.sergdevops.ru/web/viewer.html?file=%2FHTML.pdf" target="_blank">link</a> 
+
+
