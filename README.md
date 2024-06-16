@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I have a basic understanding of Linux administration, version control systems, and scripting languages. You can learn more about my skills at the
-<a href="https://cv.sergdevops.ru/web/viewer.html?file=%2FHTML.pdf" target="_blank">link</a> 
+I am looking for a job as a SysOps/DevOps Engineer in a development team. I understand modern software development concepts and am studying the DevOps methodology. In short, here's what I can do:
+* Automate routine tasks in Bash, Python;
+* Configure hosts in Ansible;
+* Containerize applications in Python, PHP, JavaScript;
+* Write pipelines for GitLab CI and Jenkins;
+* Set up monitoring and logging using ELK/Prometheus/Grafana;
+* Administer internal company resources (DB, VCS, Ops stuff).
 
 
